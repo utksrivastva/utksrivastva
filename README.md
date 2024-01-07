@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+
 **utksrivastva/utksrivastva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Utkarsh Srivastava! 👋
+
+I'm a senior software engineer and passionate about everything web.
+
+Feel free to explore my repositories and connect with me! 😄
