@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I'm a senior software engineer and passionate about everything web.
 
-Feel free to explore my repositories and connect with me! 😄
+Feel free to explore my repositories and connect with me!
