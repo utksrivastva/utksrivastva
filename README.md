@@ -23,4 +23,4 @@ I'm a senior software engineer and passionate about everything web. 😄
 - [LinkedIn](https://www.linkedin.com/in/utksrivastva/)
 
 
-Feel free to connect with me!
+Feel free to explore my repositories and connect with me!
