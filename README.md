@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 I'm a senior software engineer and passionate about everything web. 😄
 
+## About Me
+
+- 🔭 I’m currently working as a Lead Engineer in Deloitte's Applied AI Team.
+
 ## Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/utksrivastva/)
