@@ -22,6 +22,8 @@ I'm a senior software engineer and passionate about everything web. 😄
 
 - 🔭 I’m currently working as a Lead Engineer in Deloitte's Applied AI Team.
 
+- 🌱 I’m currently learning Web3 and Solidity
+
 ## Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/utksrivastva/)
