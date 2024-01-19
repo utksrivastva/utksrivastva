@@ -26,7 +26,7 @@ I'm a senior software engineer and passionate about everything web. 😄
 
 - 💬 Ask me about MVVM frameworks (such as Angular, React), Advanced JavaScript, and TypeScript.
 
-- - 📫 How to reach me: Email me at srivastava_utkarsh@outlook.com
+- 📫 Email me at srivastava_utkarsh@outlook.com
 
 ## Find Me Online
 
