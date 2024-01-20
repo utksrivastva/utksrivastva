@@ -22,7 +22,7 @@ I'm a senior software engineer and passionate about everything web. 😄
 
 - 🔭 I’m currently working as a Lead Engineer in Deloitte's Applied AI Team.
 
-- 🌱 I’m currently trying to learn Solidity.
+- 🌱 I’m currently trying to learn Angular, React and Solidity.
 
 - 💬 Ask me about MVVM frameworks (such as Angular, React), Advanced JavaScript, and TypeScript.
 
