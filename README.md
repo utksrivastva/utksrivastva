@@ -20,7 +20,7 @@ I'm a senior software engineer and passionate about everything web. 😄
 
 ## About Me
 
-- 🔭 I’m currently working as a Lead Engineer in Deloitte's Applied AI Team.
+- 🔭 I’m currently working as a Lead Engineer at Deloitte's Applied AI Team.
 
 - 🌱 I’m currently learning Angular, React and Solidity.
 
