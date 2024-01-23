@@ -22,7 +22,9 @@ I'm a senior software engineer and passionate about everything web. 😄
 
 - 🔭 I’m currently working as a Lead Engineer at Deloitte's Applied AI Team.
 
-- 🌱 I’m currently learning Angular, Analog.js, React, and Next.js
+- 🌱 I’m currently learning Angular, Analog.js, React, and Next.js.
+
+- 👯 I’m looking to collaborate on Open-Source Projects.
 
 - 💬 Ask me about MVVM frameworks, Advanced JavaScript, and TypeScript.
 
