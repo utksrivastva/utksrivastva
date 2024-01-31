@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Utkarsh Srivastava! 👋
 
-I'm a senior software engineer and passionate about everything web. 😄
+I'm a senior software engineer and passionate about everything web.
 
 ## About Me
 
