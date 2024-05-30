@@ -20,7 +20,7 @@ I'm a senior software engineer and passionate about everything web. 👨🏻‍�
 
 ## About Me
 
-- 🔭 I’m currently working as a Lead Engineer at Deloitte's Strategy & Analytcis Team.
+- 🔭 I’m currently working as a Lead Engineer at Deloitte's Strategy & Analytics Team.
 
 - 🌱 I’m currently trying to master Angular, React along with a bit of Node.js.
 
