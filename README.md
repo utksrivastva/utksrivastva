@@ -22,7 +22,7 @@ I'm a senior software engineer and passionate about everything web. 👨🏻‍�
 
 - 🔭 I’m currently working as a Lead Engineer at Deloitte's Strategy & Analytics Team.
 
-- 🌱 I’m currently trying to master Angular, React and TypeScript.
+- 🌱 I’m currently trying to master Angular, React, and TypeScript.
 
 - 👯 I’m looking to collaborate on Open-Source Projects.
 
