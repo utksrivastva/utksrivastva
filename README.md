@@ -26,7 +26,7 @@ I'm a senior software engineer and passionate about everything web. 👨🏻‍�
 
 - 👯 I’m looking to collaborate on Open-Source Projects.
 
-- 💬 Ask me about MVVM Frameworks, and Micro-Frontends.
+- 💬 Ask me about MVVM Frameworks, and Micro-Frontends, OOJS
 
 - 📫 Email me at srivastava_utkarsh@outlook.com
 
