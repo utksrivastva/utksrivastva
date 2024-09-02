@@ -30,10 +30,5 @@ I'm a senior software engineer and passionate about everything web. 👨🏻‍�
 
 - 📫 Email me at srivastava_utkarsh@outlook.com
 
-## Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/utksrivastva/)
-- [Twitter](https://x.com/utksrivastva)
-
 
 Feel free to explore my repositories and connect with me!
