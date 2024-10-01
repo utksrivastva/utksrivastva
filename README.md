@@ -20,13 +20,13 @@ I'm a software engineer. 👨🏻‍💻
 
 ## About Me
 
-- 🔭 I’m currently working as a Senior Frontend Engineer at Deloitte.
+- 🔭 I’m currently working as a Senior Software Engineer at Deloitte.
 
-- 🌱 I’m currently trying to master AWS, JAM Stack, and Vue.
+- 🌱 I’m currently learning master AWS, JAM Stack, and Vue.
 
 - 👯 I’m looking to collaborate on Open-Source Projects.
 
 - 💬 Ask me about MVVM Frameworks, Micro-Frontends, JavaScript
 
-- 📫 Email me at srivastava_utkarsh@outlook.com
+- 📫 Reach me at srivastava_utkarsh@outlook.com
 
