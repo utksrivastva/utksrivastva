@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Utkarsh Srivastava! 👋
 
-I'm a software engineer with a knack about everything related to web. 👨🏻‍💻
+I'm a software engineer. 👨🏻‍💻
 
 ## About Me
 
