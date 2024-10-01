@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Utkarsh Srivastava! 👋
 
-I'm a senior software engineer and passionate about everything web. 👨🏻‍💻
+I'm a software engineer with a knack about everything related to web. 👨🏻‍💻
 
 ## About Me
 
-- 🔭 I’m currently working as a Senior Frontend Engineer at Deloitte's Strategy & Analytics Team.
+- 🔭 I’m currently working as a Senior Frontend Engineer at Deloitte.
 
 - 🌱 I’m currently trying to master AWS, JAM Stack, and Vue.
 
