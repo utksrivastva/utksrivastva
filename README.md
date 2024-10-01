@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Utkarsh Srivastava! 👋
+# Hello, I'm Utkarsh! 👋
 
-I'm a software engineer. 👨🏻‍💻
+I'm a software engineer by profession. 👨🏻‍💻
 
 ## About Me
 
