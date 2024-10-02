@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Utkarsh! 👋
+# Hi there, I'm Utkarsh! 👋
 
 ## About Me
 
