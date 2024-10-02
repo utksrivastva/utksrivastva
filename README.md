@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Utkarsh! 👋
 
-I'm a software engineer by profession. 👨🏻‍💻
-
 ## About Me
 
 - 🔭 I’m currently working as a Senior Software Engineer at Deloitte.
 
-- 🌱 I’m currently learning master AWS, JAM Stack, and Vue.
+- 🌱 I’m currently learning AWS, JAM Stack, and Vue.
 
 - 👯 I’m looking to collaborate on Open-Source Projects.
 
