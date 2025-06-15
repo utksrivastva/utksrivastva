@@ -2,7 +2,7 @@
 
 **Lead Software Engineer** | **Frontend Architecture Specialist** | **GenAI Platform Developer**
 
-📧 srivastava_utkarsh@outlook.com | 💼 [LinkedIn](https://linkedin.com/in/utkarsh-srivastava) | 📍 Bengaluru, Karnataka
+📧 srivastava_utkarsh@outlook.com | 💼 [LinkedIn](https://linkedin.com/in/utkarsh-srivastava) | 📍 Bangalore, Karnataka
 
 ## About Me
 
@@ -68,7 +68,7 @@ Results-driven senior frontend engineer with **7+ years** of expertise in archit
 ## Professional Journey
 
 **🔹 Deloitte Consulting** - *Lead Software Engineer* (Jan 2021 - Present)
-- Leading GenAI platform development and team of 8+ engineers
+- Leading GenAI platform development and team of 5+ engineers
 - Architecting scalable design systems and CI/CD pipelines
 
 **🔹 Kore.ai** - *Software Engineer* (Aug 2020 - Jan 2021)
@@ -92,4 +92,4 @@ Results-driven senior frontend engineer with **7+ years** of expertise in archit
 
 I'm always interested in discussing frontend architecture, GenAI applications, team leadership, and innovative web technologies. Feel free to reach out!
 
-⭐️ *From [utksrivastva](https://github.com/utksrivastva)*
+<!-- ⭐️ *From [utksrivastva](https://github.com/utksrivastva)* -->
