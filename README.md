@@ -2,7 +2,7 @@
 
 **Lead Software Engineer** | **Frontend Architecture Specialist** | **GenAI Platform Developer**
 
-📧 srivastava_utkarsh@outlook.com | 📱 (+91) 9739731790 | 💼 [LinkedIn](https://linkedin.com/in/utkarsh-srivastava) | 📍 Bengaluru, Karnataka
+📧 srivastava_utkarsh@outlook.com | 💼 [LinkedIn](https://linkedin.com/in/utkarsh-srivastava) | 📍 Bengaluru, Karnataka
 
 ## About Me
 
