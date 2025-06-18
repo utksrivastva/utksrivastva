@@ -10,7 +10,7 @@ Results-driven senior frontend engineer with **7+ years** of expertise in archit
 
 ## What I Do
 
-🚀 **Leading Innovation**: Spearheading the development of enterprise-grade GenAI platforms handling 50K+ daily requests
+🚀 **Leading Innovation**: Currently spearheading the development of enterprise-grade GenAI platforms handling ~150K+ daily requests
 
 🏗️ **Architecture & Scale**: Architecting scalable design systems serving 10+ internal products with 98% component reusability
 
