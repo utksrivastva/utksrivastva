@@ -6,9 +6,9 @@
 
 ## About Me
 
-Results-driven senior frontend engineer with **7+ years** of expertise in architecting and scaling frontend applications, specializing in enterprise SaaS platforms. Currently leading a team of 8+ engineers in developing next-generation GenAI solutions at Deloitte, with a strong background in mentoring teams, establishing frontend best practices, and driving technical innovation in high-stakes enterprise environments.
+Senior frontend engineer with **7+ years** of expertise in architecting and scaling frontend applications, specializing in enterprise SaaS platforms. Currently leading a team of 8+ engineers in developing next-generation GenAI solutions at Deloitte, with a strong background in mentoring teams, establishing frontend best practices, and driving technical innovation in high-stakes enterprise environments.
 
-## What I Do
+<!--## What I Do
 
 🚀 **Leading Innovation**: Currently spearheading the development of enterprise-grade GenAI platforms handling ~150K+ daily requests
 
@@ -16,7 +16,7 @@ Results-driven senior frontend engineer with **7+ years** of expertise in archit
 
 👥 **Team Leadership**: Managing cross-functional teams and establishing coding standards that reduce deployment time by 50%
 
-📊 **Performance Optimization**: Implementing advanced performance patterns that improve page load times from 8s to 2s
+📊 **Performance Optimization**: Implementing advanced performance patterns that improve page load times from 8s to 2s -->
 
 ## Tech Stack
 
@@ -28,8 +28,8 @@ Results-driven senior frontend engineer with **7+ years** of expertise in archit
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### State Management & Architecture
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ### UI/UX & Styling
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -53,7 +53,7 @@ Results-driven senior frontend engineer with **7+ years** of expertise in archit
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## Key Achievements
+<!--## Key Achievements
 
 💰 **$5M Digital Transformation**: Led frontend architecture for a major digital transformation project
 
@@ -63,7 +63,7 @@ Results-driven senior frontend engineer with **7+ years** of expertise in archit
 
 📈 **Scale Expert**: Built platforms processing 150K+ events/hour and handling 50K+ daily requests
 
-🎯 **Zero Downtime**: Led AngularJS to Angular 12 migration with zero downtime
+🎯 **Zero Downtime**: Led AngularJS to Angular 12 migration with zero downtime -->
 
 ## Professional Journey
 
@@ -83,10 +83,10 @@ Results-driven senior frontend engineer with **7+ years** of expertise in archit
 
 🏅 **AWS Certified Solutions Architect - Associate**
 
-## Education
+<!-- ## Education
 
 🎓 **Bachelor of Engineering in Computer Science**  
-*Visvesvaraya Technological University* | 2012 - 2016
+*Visvesvaraya Technological University* | 2012 - 2016 -->
 
 ## Let's Connect!
 
