@@ -1,6 +1,6 @@
 # Hi there, I'm Utkarsh Srivastava 👋
 
-**Lead Software Engineer** | **Frontend Architecture Specialist** | **GenAI Platform Developer**
+**Lead Frontend Engineer** | **Frontend Architecture Specialist**
 
 📧 srivastava_utkarsh@outlook.com | 💼 [LinkedIn](https://linkedin.com/in/utkarsh-srivastava) | 📍 Bangalore, Karnataka
 
