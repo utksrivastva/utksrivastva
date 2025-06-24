@@ -68,16 +68,16 @@ Senior frontend engineer with **7+ years** of expertise in architecting and scal
 ## Professional Journey
 
 **🔹 Deloitte Consulting** - *Lead Software Engineer* (Jan 2021 - Present)
-- Leading GenAI platform development and team of 5+ engineers
-- Architecting scalable design systems and CI/CD pipelines
+<!-- - Leading GenAI platform development and team of 5+ engineers
+- Architecting scalable design systems and CI/CD pipelines -->
 
 **🔹 Kore.ai** - *Software Engineer* (Aug 2020 - Jan 2021)
-- Built high-performance web SDKs and bot analytics platforms
-- Achieved 100% test coverage and reduced integration time significantly
+<!-- - Built high-performance web SDKs and bot analytics platforms
+- Achieved 100% test coverage and reduced integration time significantly -->
 
 **🔹 Eze Castle Integration** - *Junior Software Developer* (Nov 2017 - Aug 2020)
-- Enhanced SIEM platform performance and built threat detection tools
-- Improved Lighthouse scores from 65 to 90
+<!-- - Enhanced SIEM platform performance and built threat detection tools
+- Improved Lighthouse scores from 65 to 90 -->
 
 ## Certifications
 
