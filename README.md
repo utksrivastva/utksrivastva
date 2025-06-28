@@ -90,6 +90,6 @@ Senior frontend engineer with **7+ years** of expertise in architecting and scal
 
 ## Let's Connect!
 
-I'm always interested in discussing frontend architecture, GenAI applications, team leadership, and innovative web technologies. Feel free to reach out!
+<!-- I'm always interested in discussing frontend architecture, GenAI applications, team leadership, and innovative web technologies. Feel free to reach out! -->
 
 <!-- ⭐️ *From [utksrivastva](https://github.com/utksrivastva)* -->
