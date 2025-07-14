@@ -88,7 +88,7 @@ Senior frontend engineer with <!-- **7+ years** of --> expertise in architecting
 🎓 **Bachelor of Engineering in Computer Science**  
 *Visvesvaraya Technological University* | 2012 - 2016 -->
 
-## Let's Connect!
+<!-- ## Let's Connect! -->
 
 <!-- I'm always interested in discussing frontend architecture, GenAI applications, team leadership, and innovative web technologies. Feel free to reach out! -->
 
