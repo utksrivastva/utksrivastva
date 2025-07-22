@@ -6,7 +6,7 @@
 
 ## About Me
 
-Senior frontend engineer with <!-- **7+ years** of --> expertise in architecting and scaling frontend applications, specializing in enterprise SaaS platforms. Currently developing next-generation GenAI based solutions at Deloitte, with a strong background in mentoring teams, establishing frontend best practices, and driving technical innovation in high-stakes enterprise environments.
+Senior frontend engineer with <!-- **7+ years** of --> expertise in architecting and scaling frontend applications, specializing in enterprise SaaS platforms. Currently developing <!--next-generation--> GenAI based solutions at Deloitte, with a strong background in mentoring teams, establishing frontend best practices, and driving technical innovation in high-stakes enterprise environments.
 
 <!--## What I Do
 
